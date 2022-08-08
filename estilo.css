@@ -1,6 +1,6 @@
 body{
     /*background: blue green;*/
-    background-image: linear-gradient(black, purple)
+    background-image: linear-gradient(black, purple,yellow);
 
     color:  pink;
     font-family: roboto;
