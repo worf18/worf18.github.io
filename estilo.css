@@ -1,5 +1,9 @@
 body{
     /*background: blue green;*/
     background-image: linear-gradient(blue, purple); 
+    
     color:  pink;
+}
+img{
+        width: 320px;
 }
